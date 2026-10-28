@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hanzala Waheed - Developer</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{margin:0;font-family:Arial;background:#0f0f0f;color:#fff;text-align:center}
+.top{padding:60px 20px;background:linear-gradient(45deg,#000,#333)}
+.top h1{font-size:42px;margin:0}
+.btn{display:inline-block;margin-top:20px;background:#fff;color:#000;padding:14px 30px;border-radius:30px;text-decoration:none;font-weight:bold}
+.card{background:#1e1e1e;margin:20px;padding:25px;border-radius:12px;text-align:left}
+</style>
+</head>
+<body>
+<div class="top">
+<h1>Hanzala Waheed</h1>
+<p>Frontend Developer for US Clients | Missouri City, Texas</p>
+<a class="btn" href="https://github.com/hanzalawaheed6-debug">View My GitHub</a>
+</div>
+<div class="card">
+<h3>🚀 What I Do</h3>
+<p>I build fast, mobile-friendly websites using HTML5 & CSS3. Available for remote work in Texas Time (CST).</p>
+</div>
+<div class="card">
+<h3>📞 Contact</h3>
+<p>Email: hanzalawaheed6@gmail.com<br>Location: Remote - Karachi to Missouri City, TX</p>
+</div>
+</body>
+</html>
